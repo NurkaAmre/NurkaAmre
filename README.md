@@ -7,11 +7,10 @@
 - 🔭 I’m currently working on Utest.
 - 🌱 I’m currently student at Microverse learning HTML, CSS & JS.
 - 👯 I’m looking to collaborate on application helps people to Learn Quran.
-- 🤔 I’m looking idea its interesting how people thinks.
+- 🤔 I’m looking good company with less work, good salary.
 - 💬 Ask me about anything that is not making me uncomfortable.
-- 📫 How to reach me: nurkerey30@gmail.com
-- 😄 Pronouns: 50-50%
-- ⚡ Fun fact: I was Dancer 
+- 😄 Pronouns: 50-50%.
+- ⚡ Fun fact: I was Dancer.
 
 ### Hard Skills & Tools
 
@@ -28,6 +27,14 @@
 
 
 <br />
+
+### Connect with me:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/AmreNurgul)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/amre-nurgul/)
+
+
+
 
 
 
