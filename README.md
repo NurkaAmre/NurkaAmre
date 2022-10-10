@@ -30,8 +30,8 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/AmreNurgul)
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/amre-nurgul/)
+[![website](./assets/twitter-light.svg)](https://twitter.com/AmreNurgul)
+[![website](./assets/linkedin-light.svg)](https://www.linkedin.com/in/amre-nurgul/)
 
 
 
