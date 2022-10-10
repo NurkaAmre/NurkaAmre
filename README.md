@@ -30,9 +30,12 @@
 
 ### Connect with me:
 
-[![website](./assets/twitter-light.svg style="padding-right:10px;)](https://twitter.com/AmreNurgul)
+[![website](./assets/twitter-light.svg )](https://twitter.com/AmreNurgul)
+&nbsp;&nbsp;
 [![website](./assets/linkedin-light.svg)](https://www.linkedin.com/in/amre-nurgul/)
+&nbsp;&nbsp;
 [![website](./assets/gmail.png)](https://mail.google.com/mail/u/0/#inbox?compose=new)
+&nbsp;&nbsp;
 [![website](./assets/telegram.png)](https://t.me/NurkaKerey)
 
 
