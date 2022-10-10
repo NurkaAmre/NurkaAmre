@@ -32,6 +32,9 @@
 
 [![website](./assets/twitter-light.svg)](https://twitter.com/AmreNurgul)
 [![website](./assets/linkedin-light.svg)](https://www.linkedin.com/in/amre-nurgul/)
+[![website](./assets/gmail.png)](https://mail.google.com/mail/u/0/#inbox?compose=new)
+[![website](./assets/telegram.png)](https://t.me/NurkaKerey)
+
 
 
 
