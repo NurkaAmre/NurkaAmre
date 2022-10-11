@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on application helps people to Learn Quran.
 - 🤔 I’m looking good company with less work, good salary.
 - 💬 Ask me about anything that is not making me uncomfortable.
-- 😄 Pronouns: 50-50%.
+- 😄 Pronouns: 'Like a this and this', 'tak-tak', 'deppa' ))).
 - ⚡ Fun fact: I was Dancer.
 
 ### Hard Skills & Tools
