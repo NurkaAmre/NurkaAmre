@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning Ruby.
 - 🌱 I’m currently student at Microverse learning Fullstack developer
-- 👯 I’m looking to collaborate on application helps people to Learn Quran.
+- 👯 I’m looking to collaborate on an application that can help people to Learn Quran.
 - 🤔 I’m looking good work.
 - 💬 Ask me about anything that is not making me uncomfortable.
 - 😄 Pronouns: 'Like a this and this', 'tak-tak', 'deppa' ))).
