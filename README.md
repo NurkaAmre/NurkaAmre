@@ -7,7 +7,7 @@
   background: linear-gradient (-70deg, #a2facf 0%, #64acff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;} -->
-  .text {
+  h1 {
   color: green;
   }
   
