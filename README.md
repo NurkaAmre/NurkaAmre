@@ -1,9 +1,9 @@
 
 ![WhatsApp Image 2022-10-10 at 19 07 50](https://user-images.githubusercontent.com/107000157/194874734-9afbf414-dcc1-4a66-a9d8-bb3c271f6614.jpeg)
-### Hello Everyone 👋
+<h1 class="text"> Hello Everyone 👋</h1>
 
 ### I am full-stack developer, mother and learner.
-.gradient-text {
+.text {
   background: linea-gradient (-70deg, #a2facf 0%, #64acff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;}
