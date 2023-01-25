@@ -8,7 +8,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;} -->
   
-- <h6> 🔭 I’m currently learning how people trying proof theyre best but there is always someone better than them that's me ))).</h6>
+- <h6 color: red> 🔭 I’m currently learning how people trying proof theyre best but there is always someone better than them that's me ))).</h6>
 - <h6>🌱 I’m currently student at Microverse learning Fullstack developer yeah yeah I will become best Full-stack developer 🥇 because there is reason for this.</h6>
 - <h6>👯 I’m looking to collaborate on an application that can help people to Learn Quran. Insha Allah.</h6>
 - <h6>💖 I’m looking interesting project which grows my skills till I get work in Google/Apple🤤.</h6>
