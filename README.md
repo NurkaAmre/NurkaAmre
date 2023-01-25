@@ -8,13 +8,13 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;} -->
   
-- <h6 color: red> 🔭 I’m currently learning how people trying proof theyre best but there is always someone better than them that's me ))).</h6>
-- <h6>🌱 I’m currently student at Microverse learning Fullstack developer yeah yeah I will become best Full-stack developer 🥇 because there is reasons.</h6>
-- <h6>👯 I’m looking to collaborate on an application that can help people to Learn Quran. Insha Allah.</h6>
-- <h6>💖 I’m looking interesting project which grows my skills till I get work in Google/Apple🤤.</h6>
-- <h6>💬 Ask me about anything that is not making me uncomfortable.</h6>
-- <h6>😄 Pronouns: 'Like a this and this', 'tak-tak', 'deppa' ))).</h6>
-- <h6>⚡Fun fact: I was Dancer.</h6>
+<h6 color: red> 🔭 I’m currently learning how people trying proof theyre best but there is always someone better than them that's me ))).</h6>
+<h6>🌱 I’m currently student at Microverse learning Fullstack developer yeah yeah I will become best Full-stack developer 🥇 because there is reasons.</h6>
+<h6>👯 I’m looking to collaborate on an application that can help people to Learn Quran. Insha Allah.</h6>
+<h6>💖 I’m looking interesting project which grows my skills till I get work in Google/Apple🤤.</h6>
+<h6>💬 Ask me about anything that is not making me uncomfortable.</h6>
+<h6>😄 Pronouns: 'Like a this and this', 'tak-tak', 'deppa' ))).</h6>
+<h6>⚡Fun fact: I was Dancer.</h6>
 
 ### Hard Skills & Tools
 
