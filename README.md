@@ -1,10 +1,10 @@
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/yourusername/your-repo-name/style.css">
+<!-- <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/yourusername/your-repo-name/style.css">
 
 <span class="custom-color">This text will be purple</span>
 
 .custom-color {
   color: purple;
-}
+} -->
 ![WhatsApp Image 2022-10-10 at 19 07 50](https://user-images.githubusercontent.com/107000157/194874734-9afbf414-dcc1-4a66-a9d8-bb3c271f6614.jpeg)
 <h1> Hello Everyone 👋</h1>
 
