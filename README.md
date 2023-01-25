@@ -1,7 +1,13 @@
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/yourusername/your-repo-name/style.css">
 
+<span class="custom-color">This text will be purple</span>
+
+.custom-color {
+  color: purple;
+}
 ![WhatsApp Image 2022-10-10 at 19 07 50](https://user-images.githubusercontent.com/107000157/194874734-9afbf414-dcc1-4a66-a9d8-bb3c271f6614.jpeg)
-<h1 style="color: purple";> Hello Everyone 👋</h1>
-<span style="color: purple;">This text will be purple</span>
+<h1> Hello Everyone 👋</h1>
+
 ### I am full-stack developer, mother and learner.
 <!-- .text {
   background: linear-gradient (-70deg, #a2facf 0%, #64acff 100%);
