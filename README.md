@@ -3,7 +3,11 @@
 ### Hello Everyone 👋
 
 ### I am full-stack developer, mother and learner.
-
+.gradient-text {
+  background: linea-gradient (-70deg, #a2facf 0%, #64acff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;}
+  
 - 🔭 I’m currently learning how people trying proof theyre best but there is always someone better than them that's me ))).
 - 🌱 I’m currently student at Microverse learning Fullstack developer yeah yeah I will become best Full-stack developer 🥇 because there is reason for this.
 - 👯 I’m looking to collaborate on an application that can help people to Learn Quran. Insha Allah.
