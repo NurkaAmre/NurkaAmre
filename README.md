@@ -4,7 +4,7 @@
 
 ### I am full-stack developer, mother and learner.
 .text {
-  background: linea-gradient (-70deg, #a2facf 0%, #64acff 100%);
+  background: linear-gradient (-70deg, #a2facf 0%, #64acff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;}
   
