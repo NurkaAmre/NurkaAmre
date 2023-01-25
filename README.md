@@ -8,7 +8,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;} -->
   .text {
-  color: greee;
+  color: green;
   }
   
 - 🔭 I’m currently learning how people trying proof theyre best but there is always someone better than them that's me ))).
