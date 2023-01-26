@@ -8,7 +8,7 @@
 ![WhatsApp Image 2022-10-10 at 19 07 50](https://user-images.githubusercontent.com/107000157/194874734-9afbf414-dcc1-4a66-a9d8-bb3c271f6614.jpeg)
 <h1> Hello Everyone 👋</h1>
 
-### I am full-stack developer, mother and learner.
+### I am full-stack developer, mother and student.
 <!-- .text {
   background: linear-gradient (-70deg, #a2facf 0%, #64acff 100%);
   -webkit-background-clip: text;
