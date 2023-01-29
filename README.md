@@ -20,7 +20,7 @@
 <h6>💖 I’m looking interesting project which grows my skills till I get work in Google/Apple🤤.</h6>
 <h6>💬 Ask me about anything that is not making me uncomfortable.</h6>
 <h6>😄 Pronouns: 'Like a this and this', 'tak-tak', 'deppa' ))).</h6>
-<h6>⚡Fun fact: I was Dancer.</h6>
+<h6>⚡Fun fact: I was Dancer & I love anime.</h6>
 
 ### Hard Skills & Tools
 
