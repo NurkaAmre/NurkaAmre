@@ -9,20 +9,19 @@
 <h1> Hello Everyone 👋</h1>
 
 ### I am full-stack developer, mother and student.
+***
 <!-- .text {
   background: linear-gradient (-70deg, #a2facf 0%, #64acff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;} -->
-  
-<h6 color: red> 🔭 I’m currently learning how people trying proof theyre best but there is always someone better than them that's me ))).</h6>
-<h6>🌱 I’m currently student at Microverse learning Fullstack developer yeah yeah I will become best Full-stack developer 🥇 because there is reasons.</h6>
-<h6>👯 I’m looking to collaborate on an application that can help people to Learn Quran. Insha Allah.</h6>
-<h6>💖 I’m looking interesting project which grows my skills till I get work in Google/Apple🤤.</h6>
-<h6>💬 Ask me about anything that is not making me uncomfortable.</h6>
-<h6>😄 Pronouns: 'Like a this and this', 'tak-tak', 'deppa' ))).</h6>
-<h6>⚡Fun fact: I was Dancer & I love anime.</h6>
+<h6 color: red> 🔭I'm interested in ...Coding 💻, Experiencing new things 🤯, Learning languages.</h6>
+<h6>🌱 I'm currently learning Next.js, Typescript Web3</h6>
+<h6>👯 I try to collaborate on any project that works with the tools mentioned below</h6>
+<h6>💬 Ask me anything that doesn't make me uncomfortable. 👀 </h6>
+<h6>⚡Fun fact: I was a dancer and I love anime.</h6>
 
 ### Hard Skills & Tools
+***
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -39,6 +38,7 @@
 <br />
 
 ### Connect with me:
+***
 
 [![website](./assets/twitter-light.svg )](https://twitter.com/AmreNurgul)
 &nbsp;&nbsp;
