@@ -15,8 +15,8 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;} -->
 <h6 color: red> 🔭I'm interested in ...Coding 💻, Experiencing new things 🤯, Learning languages.</h6>
-<h6>🌱 I'm currently learning Next.js, Typescript Web3</h6>
-<h6>👯 I try to collaborate on any project that works with the tools mentioned below</h6>
+<h6>🌱 I'm currently learning Next.js, Typescript Web3.</h6>
+<h6>👯 I try to collaborate on any project that works with the tools mentioned below. ⏬ </h6>
 <h6>💬 Ask me anything that doesn't make me uncomfortable. 👀 </h6>
 <h6>⚡Fun fact: I was a dancer and I love anime.</h6>
 
