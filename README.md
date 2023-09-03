@@ -10,17 +10,17 @@
 ![WhatsApp Image 2022-10-10 at 19 07 50](https://user-images.githubusercontent.com/107000157/194874734-9afbf414-dcc1-4a66-a9d8-bb3c271f6614.jpeg)
 <h1> Hello Everyone 🙌 </h1>
 
-### I'm a full stack developer, software tester and mother.
+### I'm a full-stack developer and software tester. 
 ***
 <!-- .text {
   background: linear-gradient (-70deg, #a2facf 0%, #64acff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;} -->
 <h6 color: red> 🔭I'm interested in ...Coding 💻, Experiencing new things 🤯, Learning languages.</h6>
-<h6>🌱 I'm currently learning Next.js, Typescript Web3.</h6>
-<h6>👯 I try to collaborate on any project that works with the tools mentioned below. ⏬ </h6>
+<h6>🌱 I'm currently learning Blockchain development, Solidity, Web3.</h6>
+<h6>👯 I try collaborating on any project that works with the tools mentioned below. ⏬ </h6>
 <h6>💬 Ask me anything that doesn't make me uncomfortable. 👀 </h6>
-<h6>⚡Fun fact: I was a dancer and I love anime.</h6>
+<h6>⚡Fun fact: I was a dancer and love anime.</h6>
 
 ### Hard Skills & Tools
 ***
