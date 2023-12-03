@@ -15,7 +15,7 @@
 <h6 color: red> 🔭I'm interested in ...Coding 💻, Experiencing new things 🤯, Learning languages.</h6>
 <h6>🌱 I'm currently learning Blockchain development, Solidity, Web3.</h6>
 <h6>👯 I try collaborating on any project that works with the tools mentioned below. ⏬ </h6>
-<h6>💬 Ask me anything that doesn't make me uncomfortable. 👀 </h6>
+<h6>💬 Ask me anything about design, and frontend development. 👀 </h6>
 <h6>⚡Fun fact: I love anime.</h6>
 
 ### Hard Skills & Tools
