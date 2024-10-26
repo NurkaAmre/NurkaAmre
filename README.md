@@ -5,9 +5,9 @@
 .custom-color {
   color: purple;
 } -->
-<!-- ![GlisteningAggravatingJunebug-size_restricted](https://user-images.githubusercontent.com/107000157/230662200-b87a9f48-c4a0-47a2-a6dd-6da3477a4d53.gif) -->
-![pngj](https://github.com/user-attachments/assets/6e108ecb-c5a9-43be-9029-ed8a084ba434)
+<!-- ![GlisteningAggravatingJunebug-size_restricted](https://user-
 
+![pngj](https://github.com/user-attachments/assets/0ed3499c-30dd-4692-a420-22794d837d5d)
 
 <h1> Hello Everyone 🙌 </h1>
 
