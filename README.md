@@ -6,8 +6,9 @@
   color: purple;
 } -->
 <!-- ![GlisteningAggravatingJunebug-size_restricted](https://user-images.githubusercontent.com/107000157/230662200-b87a9f48-c4a0-47a2-a6dd-6da3477a4d53.gif) -->
+![pngj](https://github.com/user-attachments/assets/6e108ecb-c5a9-43be-9029-ed8a084ba434)
 
-![WhatsApp Image 2022-10-10 at 19 07 50](https://user-images.githubusercontent.com/107000157/194874734-9afbf414-dcc1-4a66-a9d8-bb3c271f6614.jpeg)
+
 <h1> Hello Everyone 🙌 </h1>
 
 ### I'm a full-stack developer and software tester. 
