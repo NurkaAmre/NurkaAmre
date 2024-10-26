@@ -5,7 +5,7 @@
 .custom-color {
   color: purple;
 } -->
-<!-- ![GlisteningAggravatingJunebug-size_restricted](https://user-
+
 
 ![pngj](https://github.com/user-attachments/assets/0ed3499c-30dd-4692-a420-22794d837d5d)
 
